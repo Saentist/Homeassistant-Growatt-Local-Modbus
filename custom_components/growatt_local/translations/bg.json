@@ -1,6 +1,3 @@
-Here is the Bulgarian translation for the JSON file:
-
-```json
 {
   "title": "Growatt Локално",
   "config": {
@@ -102,6 +99,3 @@ Here is the Bulgarian translation for the JSON file:
     }
   }
 }
-```
-
-You can create a new file `bg.json` in the `translations` directory and add this content for Bulgarian translations.
