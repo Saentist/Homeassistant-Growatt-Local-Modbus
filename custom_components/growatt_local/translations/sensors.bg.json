@@ -1,0 +1,12 @@
+{
+    "state": {
+        "growatt_local__status": {
+          "Offline": "Не е на линия",
+          "not_connected": "Не е свързан",
+          "no_response": "Не отговаря",
+          "Waiting": "Чака",
+          "Normal": "Функцинира",
+          "Fault": "Грешка"
+        }
+    }
+}
